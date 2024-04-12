@@ -8,7 +8,7 @@ Passionate about leveraging data to gain insights and solve complex problems
 
 *   🌍  I'm based in Dhahran, Saudi Arabia
 *   ✉️  You can contact me at [akomolafefauzan@gmail.com](mailto:akomolafefauzan@gmail.com)
-*   🧠  I'm learning Deep Learning
+*   🧠  I'm learning Machine Learning
 *   🤝  I'm open to collaborating on Interesting Projects
 *   ⚡  I'm Bat Man, tell my mom.<a href="https://www.github.com/FaizTechy" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/github/followers/FaizTechy?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>### Skills 
